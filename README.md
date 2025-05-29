@@ -1,4 +1,4 @@
-DAT 475 Project Three Guidelines and Rubric
+DAT 475 Project Three Guidelines and Rubric (THIS ALSO INCLUDES PROJECT 1 AND 2(DOCUMENT 20))
 Competency
 In this project, you will demonstrate your mastery of the following competency:
 
